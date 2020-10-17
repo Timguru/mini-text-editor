@@ -1,0 +1,24 @@
+$colors : (
+    primary : #3e4095,
+    accent : antiquewhite,
+    navigation : #0098db,
+    text-color : #fff
+);
+
+/*Function to get the colors */
+@function color($color-name){
+    @return map-get($colors, $color-name )
+}
+
+html {
+    margin : 0;
+}
+
+body {
+
+   width : 100%;
+   height : 100%;
+   position : absolute;
+   z-index: -1;
+    
+}

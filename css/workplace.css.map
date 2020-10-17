@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAOA,+BAA+B;AAK/B,AAAA,IAAI,CAAC;EACD,MAAM,EAAG,CAAC;CACb;;AAED,AAAA,IAAI,CAAC;EAEF,KAAK,EAAG,IAAI;EACZ,MAAM,EAAG,IAAI;EACb,QAAQ,EAAG,QAAQ;EACnB,OAAO,EAAE,EAAE;CAEb",
+    "sources": [
+        "workplace.scss"
+    ],
+    "names": [],
+    "file": "workplace.css"
+}

@@ -1,0 +1,12 @@
+/*Function to get the colors */
+html {
+  margin: 0;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+}
+/*# sourceMappingURL=workplace.css.map */
